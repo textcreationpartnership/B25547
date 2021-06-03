@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A. Z! Quirin Kuhlman a Christian Jesuelit his Quinary of slingstones against the Goliah of all kindreds, people, and languages: to be placed before his writings, as an invincible love-apology for, and defence of them. For an eternal memory set down the same day which two years before, he departed from the Rose-lilly Bromley by Bow, near London, towards Constantinople, otherwise called, Eastern-Rome, in the lilly city Paris, the 3. day of March and published at Amsterdam, May, 168[?]</title>
+            <title>Quinarius suorum lapidum. English</title>
+            <author>Kuhlmann, Quirin, 1651-1689.</author>
+         </titleStmt>
+         <extent>Approx. 59KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25547</idno><idno type="EEBO-CITATION">99833221</idno>
+  <idno type="VID">207459</idno>
+  <idno type="EEBO-PROQUEST">2240955959</idno>
+  
+            <idno type="STC">Wing K757</idno>
+            <idno type="PROQUEST">99833221</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99833221e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25547)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207459)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2172:07)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A. Z! Quirin Kuhlman a Christian Jesuelit his Quinary of slingstones against the Goliah of all kindreds, people, and languages: to be placed before his writings, as an invincible love-apology for, and defence of them. For an eternal memory set down the same day which two years before, he departed from the Rose-lilly Bromley by Bow, near London, towards Constantinople, otherwise called, Eastern-Rome, in the lilly city Paris, the 3. day of March and published at Amsterdam, May, 168[?]</title>
+                  <title>Quinarius suorum lapidum. English</title>
+                  <author>Kuhlmann, Quirin, 1651-1689.</author>
+               </titleStmt>
+               <extent>32 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for the author,</publisher>
+                  <pubPlace>London and Oxford :</pubPlace>
+                  <date>anno 1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a preliminary advertisement leaf.</note>
+                  <note>Translation of: Kuhlmann, Quirin.  Quinarius suorum lapidum.</note>
+                  <note>Copy imperfect; leaf A1 cropped along outer margin with loss of text; print fade</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Prophecy --  Early works to 1800.</term>
+               <term type="topical_term">Cabala and Christianity --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:207459:1"/>
+            <p>A. Z! <hi>Heptaglotta</hi> KUHLMANNI<g ref="char:EOLhyphen"/>ANA, OR Kuhlman's Treatises, <hi>To be Published</hi> IN <hi>SEVEN LANGƲAGES,</hi> Being Part of his YOUTHFUL WORKS.</p>
+            <pb facs="tcp:207459:2"/>
+            <pb facs="tcp:207459:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:207459:3"/>
+            <head>The Order and Contents of the <hi>Seven Treatises in Seven Tongues,</hi> Viz. Spanish, Italian, French, Latin, German, Low-Dutch, and English.</head>
+            <p n="1">I. <hi>THE Quinary of Slingstones,</hi> is the Concentrate of <hi>Kuhlman's</hi> Writings, and the Foundation, Matrix, Center and Saturn of the Times of Refreshment.</p>
+            <p n="2">II. <hi>The Constantinopoli<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>an Letter to the Empe<g ref="char:EOLhyphen"/>rour of the Turks,</hi> with the annexed <hi>Mystery of the</hi> 21 <hi>Weeks,</hi> doth more clearly unfold it self, like to the second Proper<g ref="char:EOLhyphen"/>ty or Quality, and mounts up higher.</p>
+            <p n="3">III. <hi>Cyrus concerning the Magnalia,</hi> or great and secret Wonders <hi>of Nature to the Adepts and Magi,</hi> follows in the Property of the third Spirit, and reacheth the first Princi<g ref="char:EOLhyphen"/>ple it self, of the things reserved for this last Age.</p>
+            <p n="4">IV. <hi>Solomon, concerning the Jesuelitical Monarchy to the Statesmen and Courtiers</hi> of the present Times, doth point at, express, and represent the true Stone of <hi>Daniel,</hi> breaking the Caesareate or <hi>Roman</hi> Empire, shedding its Rays like the Sun.</p>
+            <p n="5">V. <hi>Ʋratislaviensis concerning the Scripture of Cooling, to the Religious Orders and Ecclesiasticks,</hi> doth lay down the Quint Essence of all Changes and Commotions.</p>
+            <p n="6">VI. <hi>The Roman Letter to the Pope, with the annexed order of the Psalter,</hi> doth essentially sound forth, and thunder in the second Principle, as the <hi>Oriens Aquilo,</hi> from the <hi>East</hi> and from the <hi>North.</hi>
+            </p>
+            <p n="7">VII. <hi>An Invitation to the General Council to be held at Ʋlme,</hi> is the very Body it self, and with very good reason concludes what it begins. In a word, the present <hi>Septenary</hi> doth con<g ref="char:EOLhyphen"/>centrate the Seven-one Beginning, Middle, and End of the <hi>Jesuelitical Lilly-Rose;</hi> and being writ by the mediate and im<g ref="char:EOLhyphen"/>mediate Will of God, and printed, is now published.</p>
+            <figure>
+               <figDesc>seven astrological signs in a row, with lines drawn beneath connecting the first and seventh, second and sixth, and third and fifth</figDesc>
+               <p>♄♃♂☉♀☿☽</p>
+            </figure>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:207459:3"/>
+            <p>A. Z! <hi>QUIRIN KUHLMAN</hi> A <hi>Christian Jesueit</hi> his QUINARY <hi>Of Slingstones,</hi> against the <hi>Goliah</hi> of all Kindreds, People, and Languages: To be placed before his Writings, as an invinci<g ref="char:EOLunhyphen"/>ble Love-Apology for, and defence of them.</p>
+            <p>
+               <hi>For an Eternal Memory set down the same day which two years before, he departed from the Rose-lilly</hi> Bromley <hi>by</hi> Bow, <hi>near</hi> Lon<g ref="char:EOLhyphen"/>don, <hi>towards</hi> Constantinople, <hi>otherwise called,</hi> Eastern-Rome, <hi>in the Lilly City</hi> PARIS, the 3. day of <hi>Marc<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> and <hi>published at Amsterdam, May,</hi> 168<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </p>
+            <p>
+               <hi>LONDON</hi> and <hi>OXFORD</hi> Printed for the Author, Anno 1683.</p>
+         </div>
+         <div type="authors_preface">
+            <pb n="4" facs="tcp:207459:4"/>
+            <q>
+               <bibl>
+                  <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ohn 8. v. 42. Matth. 16. v. 3.12. v. 34. Luk. 12. v. 49.50. Mark 9. v. 50. 12. v. 11.</bibl>
+               <p>I Am not <gap reason="illegible" resp="#murp" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e of my self, but he hath sent me. Why do ye not understand my Speech? Even because ye cannot hear my Word. Ye Hyppocrites, ye can discern the Face of Heaven, and why can not discern the Signs of the Times? O Generation of <hi>Vipers!</hi> How can ye speak Good things, seeing ye are evil? For out of the <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bundance of the Heart the Mouth speaketh. I am come to kindle <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> fire upon Earth, and what would I rather than that it were alrea<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y kindled? But there is a <hi>Baptism</hi> I must before be <hi>Baptized</hi>
+                  <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ith, and how am I anguished till it be accomplished. Have Salt in ourselves, and have Peace with one another. This is the Lords <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wn d<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing, and it is marvellous in our Eyes.</p>
+            </q>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <div n="1" type="part">
+               <pb n="5" facs="tcp:207459:4"/>
+               <head>The first Stone of his immediate Call and Illumination.</head>
+               <p n="1">1. DRAW nigh, thou proud <hi>Goliah</hi> of all Kindreds, Tongues and Peo<g ref="char:EOLhyphen"/>ple! <hi>Jehovah-Elohim-Tzebaoth,</hi> the Triune God of <hi>Abraham, Isa<g ref="char:EOLhyphen"/>ac</hi> and <hi>Jacob,</hi> called me by Name in time, before I know him, and let me be born the very same day and hour, which of a long time before, he had thereunto appointed, by the Prophets of Holy Writ: seeing from Eternity he had seperated and chosen me for his Servant, to fulfill all his Will.</p>
+               <p n="2">2. When yet a Child and Stripling, his Holy Spirit sported it self with me in Dreams: his Flash in the opening of Life oft glanced through me, transporting me with the swiftest rapture in<g ref="char:EOLhyphen"/>to the brighest Light, oft in my sleep, and some<g ref="char:EOLhyphen"/>times between sleeping and waking: yet I knew him not.</p>
+               <p n="3">3. When I was eighteen years of Age, my Glo<g ref="char:EOLhyphen"/>rious King Jesus Christ himself twice visibly re<g ref="char:EOLhyphen"/>vealed himself to me (when before, two visible Angels, had with me twice overcome Hell, then visibly appearing before me) in the company of so many <hi>Patriarchs, Prophets, Apostles, Martyrs,</hi>
+                  <pb n="6" facs="tcp:207459:5"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>nd <hi>Saints;</hi> and poured forth into my heart his most secret Treasures and most hidden Jewels <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>rom the beginning of the World, for <hi>Jacob</hi> his <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ervant, and <hi>Israel</hi> his Chosen sake: yet hither<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>o I knew nothing of his Call.</p>
+               <p n="4">4. The <hi>Virgin</hi> with many millions of Angels, amongst so many thousand-thousand-thousands, flew towards me, holding forth the victorious <hi>Garland</hi> to me for a Welcome. The whole Light-world bloomed with <hi>Lillies</hi> and <hi>Roses,</hi> and was all over Light-flower'd, wrapping my Body in <hi>Lillies</hi> and <hi>Roses:</hi> yet my outward Reason comprehend<g ref="char:EOLunhyphen"/>ed nothing of all this.</p>
+               <p n="5">5. Both the Victorious Protecting Angels ac<g ref="char:EOLhyphen"/>companied me for five years together, in their first appearance of a <hi>Shaddowy Circle,</hi> visible on my Left-hand; and a Door was opened to me into the beginning, middle and end of all the <hi>Seven Arts</hi> and <hi>Three Faculties:</hi> so that endless <hi>Mysteries,</hi> as it were sportwise, were the more numerously opened to me, the more numerously they were opened to me: yet the <hi>Source</hi> and <hi>Center</hi> of them remained hidden from me.</p>
+               <p n="6">6. In my three and twentieth year, I was ve<g ref="char:EOLhyphen"/>ry powerfully stirred up, driven, and compell'd, until all of a sudden, the <hi>Paradisick Light-world</hi> visibly in the Inward, surrounded me with thou<g ref="char:EOLhyphen"/>sand-thousand-thousands of <hi>Powers, Colours, Splendors, Glances, Changes, Wonders</hi> and <hi>Aspects,</hi> being all unexpressibly surrounded with Light, from the most Holy Triangle of the <hi>Lightest-Lightest-Lightest Lights-Light-Light;</hi> and was
+<pb n="7" facs="tcp:207459:5"/> now with my outward Body, as all men, in the World, but with my Spiritual Body, in another Element, incomprehensible to those of this World, wherein for these five years I have con<g ref="char:EOLhyphen"/>tinued, and still continue, through the Infinite Mercy of God.</p>
+               <p n="7">7. From this Inward World, I find my self enabled in my outward Writing, made pow<g ref="char:EOLhyphen"/>erful in Prayer; in tryals, revived; in dangers, preserved; in doubtful cases, instructed; in the Cross-fire, cooled; in temptation-faintings, re<g ref="char:EOLhyphen"/>freshed: so that in the midst of the weight, filth, and sin of this mortal Body, I do both visibly and invisibly possess an inward cohabitation of the <hi>Inward Man,</hi> in the true Eternal Body of Jesus Christ, to the terrour of the Devil and his Mem<g ref="char:EOLhyphen"/>bers.</p>
+               <p n="8">8. From my eight &amp; twentieth year, all the im<g ref="char:EOLhyphen"/>mediate <hi>Rays</hi> of my immediate <hi>Call</hi> &amp; <hi>Illumination</hi> have been so much the more wonderfully, highly and strongly concentred, untill I was full born ac<g ref="char:EOLhyphen"/>cording to all Principles, by how much more vi<g ref="char:EOLhyphen"/>olently, cruelly and ragingly the Hellish Dragon <hi>Lucifer</hi> hath endeavoured to overwhelm, drown, and destroy me: So that now first I find my self dayly furnished by the Almighty with Joy, Cou<g ref="char:EOLhyphen"/>rage, and Undauntedness, for the Work of the Almighty.</p>
+               <p n="9">9. This Almighty One, who appeared unto me with these words, I AM THE LORD TZEBAOTH: <hi>I will fight for him;</hi> this is HE whom thou hast defied, thou great Gyant
+<pb n="8" facs="tcp:207459:6"/> of <hi>Babel▪</hi> Thou Glory of the <hi>Modern Philistims,</hi> of all <hi>Kindreds, Tongues</hi> and <hi>People!</hi> the greatest, mightiest, and strongest of all their great <hi>Heroes,</hi> the Wall of the whole Earth.</p>
+               <p n="10">10. Thou comest to me with <hi>Sword, Spear,</hi> and <hi>Shield;</hi> but I come to thee in the Name of <hi>Jeho<g ref="char:EOLhyphen"/>vah Tzebaoth,</hi> the God of the Hosts of the <hi>Christian Israelites,</hi> whom thou hast defied. Therefore flee this <hi>Stone</hi> of my immediate <hi>Call</hi> and <hi>Illumination,</hi> which I have immediately ta<g ref="char:EOLhyphen"/>ken out of <hi>David</hi>'s Shepherds-Bag, and <hi>Pera</hi> of <hi>Eastern-Rome</hi> into thy shameless blaspheming <hi>Forehead,</hi> that thou mayst fall and perish for ever.</p>
+               <closer>HALLELUIAH.</closer>
+            </div>
+            <div n="2" type="part">
+               <head>The Second Stone of Mediate Academical Testimonies,</head>
+               <p>LIsten O Academical <hi>Goliah</hi> of all Kind<g ref="char:EOLhyphen"/>reds, Tongues and People, to what will make thy Ears to tingle; and take notice of these Testimonies, which will make thee faint away! <hi>Jehovah, Jesus, Tze<g ref="char:EOLhyphen"/>baoth,</hi> the Father of all <hi>Wisdom, Prudence</hi> and <hi>Science,</hi> bestowed upon me so Capacious a <hi>Wit</hi> and <hi>Ʋnderstanding</hi> from my very <hi>Twelfth Year</hi> (tho untill then, with <hi>Moses</hi> &amp; the Emperor <hi>Max<g ref="char:EOLhyphen"/>imilian,</hi> I scarce Lisped, much less could Speak perfectly) that I most swiftly out-stript all my equals, as matchless in <hi>Latine</hi> and <hi>Greek</hi> Authors, and gave real Instances of my Imitating of them
+<pb n="9" facs="tcp:207459:6"/> at those Years, when others had scarcely begun to read them.</p>
+               <p n="2">2. I had the publick City Library of 14000 Books, by a wonderful Providence of God, to my own use; which, with an insatiable using, I rightly made use of, flying swifter than an <hi>Arrow</hi> through all sorts of Writings: my reading was much and manifold in many innumerable <hi>Trea<g ref="char:EOLhyphen"/>tises;</hi> insomuch that when as to my age I had only attained my first youth, yet by reason of my great and various reading of so many thousands, I might well be compared with old <hi>Varro's, Pli<g ref="char:EOLhyphen"/>ny's, Delrio's, Barthius's</hi> and <hi>Salmasius's.</hi>
+               </p>
+               <p n="3">3. I was ashamed to have read any <hi>Author,</hi> in whatsoever <hi>Art</hi> and <hi>Faculty,</hi> whom I could not in my own Spirit, of my own invention, at least, imitate and write after, if not equal him, or go beyond him, and began therefore to copy the greatest Master-pieces of the greatest Masters of the <hi>Latin, Greek,</hi> and <hi>German</hi> Tongue, until in the first place I reached their Excellencies; next, corrected their Failings; and soon after went be<g ref="char:EOLhyphen"/>yond, and out-vied them with the highest In<g ref="char:EOLhyphen"/>ventions.</p>
+               <p n="4">4. When now the Divine Light of the Eter<g ref="char:EOLhyphen"/>nal Wisdom had enlightned me, I pierced into the very inward Heart of all <hi>Arts</hi> and <hi>Faculties,</hi> and apprehended a thousand fold more in all Writers than they all had apprehended; and was busy day and night to return all I had read, to its <hi>Center,</hi> out of <hi>Multiplicity</hi> into <hi>Ʋnity,</hi> and again out of <hi>Ʋnity</hi> into <hi>Multiplicity;</hi> and to restore
+<pb n="10" facs="tcp:207459:7"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="11" facs="tcp:207459:7"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="10" facs="tcp:207459:8"/> whatsoever was lost: because all this, in the be<g ref="char:EOLhyphen"/>ginning, middle, and end of Combination, was no more than a delightful <hi>Play</hi> and <hi>Pastime</hi> to me; as likewise to open all Secrets in many thou<g ref="char:EOLhyphen"/>sand-thousand-thousands of Mysteries, because Nature furnished me dayly with altogether un<g ref="char:EOLhyphen"/>heard of <hi>Compendiums,</hi> and ways of bringing ma<g ref="char:EOLhyphen"/>nifold things into a narrow compass.</p>
+               <p n="5">5. It was upon this account that so great <hi>En<g ref="char:EOLhyphen"/>comiums</hi> were bestowed upon me, at first by my School-Masters, Professors, and others my Friends and Familiars; &amp; afterwards also by the greatest Prodigies of Learning, as well <hi>Germans</hi> as <hi>Stran<g ref="char:EOLhyphen"/>gers</hi> (not to speak now of those from less conside<g ref="char:EOLhyphen"/>rable Persons) and all this before my immedi<g ref="char:EOLhyphen"/>ate <hi>Call</hi> was known to my self or them, which my twenty third year first attained. And <hi>Jehovah</hi> had so ordered, that their own mouth, by fore<g ref="char:EOLhyphen"/>boding to me the <hi>Center</hi> of the whole <hi>Greek</hi> and <hi>Latin Antiquity,</hi> should be the Prophet of their own ruine: as indeed the said <hi>Center</hi> is really given unto me, in order to the breaking down, or rather burying of the Academical <hi>Babylon,</hi> Apocalyptical <hi>Lateinos</hi> 666, and the <hi>Eighth-Rome,</hi> of which my <hi>Funeral Inscriptions,</hi> writ in my fifteenth year, were a pregnant Testimony.</p>
+               <p n="6">6. In my Person they hoped for, expected, and praised another <hi>Opitius</hi>
+                  <note n="*" place="bottom">The Author in his Forerunner, Printed at <hi>Leyden,</hi> 1674 Chap. VIII. hath these words concerning this Subject. When most famous men, and my very good Friends, being Admirers of the Parts which God had bestowed upon me, did in their private and publick Testimonials and Letters, declare, that in me were revived and looked for, <hi>Erasmus,</hi> both the <hi>Scaligers, Lipsius, Barthius, Grotius, Taubmannus, Mu<g ref="char:EOLhyphen"/>retus, Opitius, Gryphius,</hi> and others, it gave occasion to many to envy and slander me. I confess if the Modern Learned may be Judges, it is something great, yea, God-like, to write only a fair Copy after any one of these great Men, or rather Monsters of Learning; but much more to outvie them altogether: yet I call God to witness, that I blush to think that formerly I have esteemed my self on this ac<g ref="char:EOLhyphen"/>count, who regard such Praises now, not as matter of En<g ref="char:EOLhyphen"/>vy, but pitty. For those very men with whom they compa<g ref="char:EOLhyphen"/>re<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> me, what were they (if you except some few of their Divine Writings) but Ma<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ters of most acute Triflings and Fooleries, Pinnacles and Turrets of the Academical <hi>Babylon,</hi> Restorers of Heathnish Folly, and Corrupters of the true Christian Wisdom: in whose Writings I well remem<g ref="char:EOLhyphen"/>ber to have met with <hi>Bastards of Error</hi> without number, which common Errour (that also makes the Law o our modern <hi>Lawyers</hi>) hath made Legitimate.</note> or new <hi>Homer</hi> and <hi>Virgil, Pindar</hi> and <hi>Horace, Claudian, Statius,</hi> the very Princes of <hi>Poets;</hi> another <hi>Gryphius,</hi> or new <hi>Sophocles, Euripides, Seneca, Plautus, Teren<g ref="char:EOLhyphen"/>tius,</hi> the Fathers of Tragedies, and Comedies;
+<pb n="11" facs="tcp:207459:8"/> another <hi>Muretus,</hi> or new <hi>Demosthenes</hi> and <hi>Cicero,</hi> the Kings of <hi>Orators</hi> and <hi>Rhetoricians;</hi> another <hi>Taubmannus,</hi> or new <hi>Apollo,</hi> with all the <hi>Muses▪</hi> another <hi>Lipsius,</hi> or new <hi>Socrates, Plato, Thales, L. Annaeus Seneca, Tacitus, Livius, Salustius, Po<g ref="char:EOLhyphen"/>lybius, Thucydides, Plutarch,</hi> the very Chief<g ref="char:EOLhyphen"/>tains of <hi>Philosophers</hi> and <hi>Writers of History;</hi> ano<g ref="char:EOLhyphen"/>ther <hi>Erasmus;</hi> another <hi>Grotius;</hi> another <hi>Julius Scaliger;</hi> another <hi>Joseph Scaliger;</hi> another <hi>Bar<g ref="char:EOLhyphen"/>thius,</hi> the Quinquivirate, or five leading men of the <hi>Letter-learned World:</hi> the first of which did reach, if not outvie all the Fathers; the second <hi>Trebonianus</hi> with all the <hi>Papinians</hi> and <hi>Lawyers;</hi> the third, <hi>Hippocrates, Galen, Theophrastus, Aristo<g ref="char:EOLhyphen"/>tle,</hi> together with all the <hi>Poets;</hi> the fourth, <hi>Mi<g ref="char:EOLhyphen"/>thridates</hi> skil'd in so many Languages; and the fifth and last, all <hi>Philologers:</hi> who all of them taken together, were the <hi>Emperours</hi> and <hi>Mo<g ref="char:EOLhyphen"/>narchs</hi> of the <hi>Ʋniversities</hi> in their time, and made famous by thousands of <hi>Elogies</hi> extant in all Writers.</p>
+               <p n="7">
+                  <pb n="12" facs="tcp:207459:9"/>7. Whatsoever now all these possessed in par<g ref="char:EOLhyphen"/>cels, the same was at once in its full bloom abun<g ref="char:EOLhyphen"/>dantly looked for, yea, looked on in me, especi<g ref="char:EOLhyphen"/>ally when I had now taken in hand <hi>Raymund, Lully,</hi> and <hi>Justinians</hi> Body of <hi>Law,</hi> in order to the restoring and correcting of them, notwith<g ref="char:EOLhyphen"/>standing so many hinderances and want of out<g ref="char:EOLhyphen"/>ward meanes; insomuch as the <hi>Jesuits Goliah, Athanasius Kircherus,</hi> the <hi>Center</hi> of the <hi>Modern Academicks,</hi> whose Name is deservedly made fa<g ref="char:EOLhyphen"/>mous by the Writings of all the Learned of this Time, in which he is alledged either for or against, did not by chance, though to his own amazement, give the better, and deliver the <hi>Cudgels</hi> to a Young-man of three and twenty, for a certain forebode of most weighty things to come, and to the wonder of the <hi>Babylonish Lati<g ref="char:EOLhyphen"/>nisme.</hi>
+               </p>
+               <p n="8">8. After that <hi>Jehovah,</hi> beyond my expectati<g ref="char:EOLhyphen"/>on, had snatch'd me out of the Accademical <hi>Ba<g ref="char:EOLhyphen"/>bel,</hi> and Mediately excited my Immediate Know<g ref="char:EOLhyphen"/>ledge, by the Writings of the most highly Illu<g ref="char:EOLhyphen"/>minated
+<pb n="13" facs="tcp:207459:9"/>
+                  <hi>Jacob Behmen,</hi>
+                  <note n="☞" place="bottom">Concerning whom, the Author, in the XI. <hi>Cap.</hi> of his forementioned <hi>Forerunner,</hi> hath these words, I have, be<g ref="char:EOLhyphen"/>ing retired in my <hi>Study,</hi> in a few days, learned more from this one <hi>Behmen,</hi> than I could have learned from the dumb Wisemen of all Ages, or from the Living Professors of all Universities put together. In <hi>Plato, Aristotle, Democritus, Hippocrates, Galen,</hi> and all the <hi>Heathen Poets, Rhetoricians, Histo<g ref="char:EOLhyphen"/>rians, Mathematicians,</hi> and others, I had found meer Opinions without Light, Fables and Trifles, and knew them to be the Wise-men of Fallen-nature. In the Unchristian-christi<g ref="char:EOLhyphen"/>an Followers of <hi>Plato, Aristotle, Democritus, Hippocrates, Galen,</hi> and Lovers of the <hi>Heathen Poets, Rhetoricians, Orators, Histori<g ref="char:EOLhyphen"/>ans, Mathematicians,</hi> I had perceived a foolish, malapert, wicked Ignorance, blinder than that of the blind <hi>Heathen.</hi> In <hi>Justinian, Hopperus, Grotius, Puffendorf,</hi> a specious <hi>Law,</hi> which in effect is no <hi>Law.</hi> In <hi>Paracelsus, Helmont,</hi> and their De<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>enders, Nature in shew and appearance. In <hi>Telesius, Pa<g ref="char:EOLhyphen"/>tritius, Carda<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>, Campanella, Des Cartes</hi> and their Desciples, a feigned and painted Truth: in a word, I had found them
+<pb n="14" facs="tcp:207459:10"/>all to be the Counterfit Wise-men of Fallen Nature. If the <hi>Fathers,</hi> I had met with many things either uncertain or absurd: and in the <hi>Writers</hi> of the Degenerating Age things more degenerate. Amongst the <hi>Romanists, Lutherans Calvinists,</hi> and other Reformed, but together deformed <hi>Di<g ref="char:EOLunhyphen"/>vines,</hi> I had found meer Opinions, Disputings for an<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> against, and devilish Cavellings; in a word, Confusion o<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Confusions, or the Wisdom of the <hi>Babylonish-Tower</hi> and <hi>Fal'<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Nature.</hi> So that every where almost, I had met with wha<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> was <hi>Antichristian</hi> and <hi>Babylonish;</hi> and now at length I foun<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> in this one <hi>Behmen</hi> what was truely Christian and most sim<g ref="char:EOLunhyphen"/>ple; or to speak more plainly, under so many thousan<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Wise-men I found one Fool, who was wiser than all th<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Wise-men in the World, being raised by God to be<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <hi>Priest</hi> and <hi>Prophet</hi> of the True Wisdom and Eternal Gospe<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> unto <hi>Germany.</hi>
+                  </note> and that I was imme<g ref="char:EOLhyphen"/>diately called, forced and pressed with great Power to the Purging of the Learned <hi>Babel.</hi> Hereupon many a Crowned Cap and <hi>Lateinos,</hi> 666 began to cast their filth upon me by term<g ref="char:EOLhyphen"/>ing me <hi>One blinded and bewitched with</hi> Behmens <hi>Spirit of Error,</hi> with other Names of reproach; but the Best in the Universities of all Faculties became thereby the more strongly inflamed to go out from them, to witness to the Truth, and to egg on and encourage me by their Praises; which yet, in this Work of God, I have Passed by, without owning them, because <hi>Jehovah-Je<g ref="char:EOLhyphen"/>sus-Tzebaoth,</hi> is alone worthy to take all honour to himself, and alone able to give to his Instru<g ref="char:EOLhyphen"/>ments a true and convincing Witness.</p>
+               <p n="9">
+                  <pb n="14" facs="tcp:207459:10"/>9. The mediate Testimonies given to me i<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>mediate Writings, are without a Parallel of al<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> past times; and these Hopes, Expectations an<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Praises have not been lost by the immediat<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Light, which hath now aright cleared, awakened and most highly graduated my Understanding, s<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> that I am made able to separate the Gold from the Dross, and pick out the Pearls, here an<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> there scattered in their Voluminous Bodies, and Systems, to tinge the unfixt Mineral-mettal, t<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> burn the Worm-eaten Image-stock, to brea<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> the rotten Thread, and to cast away the unpro<g ref="char:EOLhyphen"/>fitable Dirt.</p>
+               <p n="10">10. Thine own mouth, O Academical <hi>Goliah</hi> thine own mediate Testimonies, are the Sword which I draw out of the Sheath of thine ow<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <hi>Turba,</hi> and it is the most incomparable, and none like it, to Cope with thy Pride, and sharp
+<pb n="15" facs="tcp:207459:10"/> enough to deal with thy strong Neck, and make thee Head-less. Wherefore have at thee with thy Gyants Sword, that thy fall may be known to Kings and Princes, to Great and Small, and that thy Impudent blaspheming Tongue, and calumniating Throat may be staked upon it for a Spectacle to the World. HALLELUIAH.</p>
+            </div>
+            <div n="3" type="part">
+               <head>The Third Stone of Immediate Prophetical Testimonies.</head>
+               <p n="1">1. SMell false Prophetical <hi>Goliah</hi> of all Kind<g ref="char:EOLhyphen"/>reds, Tongues and People, the wonder<g ref="char:EOLhyphen"/>sweet, and incomparably strong <hi>Lilly-Rosean Odor,</hi> which throws down thy Cap into the Valley of <hi>Jehoshaphat,</hi> and quite stifles thee! The <hi>Three-One Jehovah Jehovah Jehovah,</hi> who in the <hi>Eternal Abyssal Will,</hi> was is, and will be the <hi>Father;</hi> In the Eternal Good pleasure of the <hi>Abyssal-will,</hi> was, is and will be the <hi>Son;</hi> in the <hi>Eternal motion</hi> or <hi>outgoing</hi> of the Good-pleasure of the <hi>Abyssal-will,</hi> was, is, and shall be the <hi>Spirit,</hi> one onely God, one onely Je<g ref="char:EOLhyphen"/>hovah; hath manifested himself <hi>Triunely,</hi> in this one onely Fallen World, when his Eternal Son beyond Nature and Creature, under the Name <hi>Jesus</hi> did Re-establish the Lost Throne of <hi>Jesuel,</hi> in the Lost Heavenly Humanity of <hi>Adam:</hi> the Propriety of the Father being <hi>predominant</hi> in the Prophets of the <hi>Law;</hi> the Sons Propriety, in the
+<pb n="16" facs="tcp:207459:11"/>
+                  <hi>Gospel Prophets,</hi> and the Spirits Propriety in the Prophets of the present times of <hi>Cooling,</hi> who sing the Song of <hi>Moses</hi> and the <hi>Lamb,</hi> in or<g ref="char:EOLhyphen"/>der to the Universal Harvest of the World.</p>
+               <p n="2">2. The <hi>Law-Prophets</hi> Prophecie concerning the <hi>Gospel-prophets,</hi> which are born of the former, and from both of them proceed the Prophets of the times of <hi>Cooling</hi> who also referr them<g ref="char:EOLhyphen"/>selves to the Testimonies of them both. And <hi>Jehovah</hi> hath by the Prophets of the Times of <hi>Cooling</hi> given so many special Testimonies, most of them before my <hi>Birth</hi> and <hi>Call,</hi> to his un<g ref="char:EOLhyphen"/>worthy <hi>Coolman,</hi> that the entangled World might in the great Thirst of their souls, even a<g ref="char:EOLhyphen"/>gainst their Wills, receive the <hi>Uniting-cooling-re<g ref="char:EOLhyphen"/>freshment,</hi> and that not onely the divided <hi>Christi<g ref="char:EOLhyphen"/>ans</hi> but also the <hi>Jews, Turks, Heathens,</hi> and all other People of the Earth, might become <hi>True Christians,</hi> and <hi>Jesuelites;</hi> for the Prophets do most plainly, and so as cannot be gain-said, bear witness to my <hi>Call</hi> and <hi>Work,</hi> which is to make a <hi>Triunion</hi> of the Books of the Times of <hi>Cool<g ref="char:EOLhyphen"/>ing,</hi> with those of the <hi>Law</hi> and <hi>Gospel,</hi> for the bringing on of the Fall of <hi>Antichrist,</hi> and a Fore<g ref="char:EOLhyphen"/>taste of the <hi>Restauration</hi> of whatsoever is lost.</p>
+               <p n="3">3. Our Blockish <hi>Modern-Babel</hi> denyes any <hi>Prophetical-Call,</hi> having not yet learned Wit from the gross-witted Prejudices of their <hi>Fore-Fathers,</hi> who could not believe that there were any <hi>Antipodes,</hi> whom therefore Blockish <hi>Babel</hi> her self, together with the whole known World doth now deride; which is nothing else but a
+<pb n="17" facs="tcp:207459:11"/> plain Figure of what their Posterity will do with them, who will needs pretend to such Wisdom in <hi>Supernaturals,</hi> when indeed, even in <hi>Naturals,</hi> they know nothing aright yet, of the four Parts of the World. So great is their Ignorance, that without enlightned Eyes they go about to ex<g ref="char:EOLhyphen"/>plain word for word, according to the Letter, the doubtful Depths of <hi>Prophetical-Riddles,</hi> as to Places, Persons and Times; whereas indeed by reason of the Liberty of Man's Will, the wrath<g ref="char:EOLhyphen"/>ful Turba of this World, and the Wiles and In<g ref="char:EOLhyphen"/>fections of the Devil, the most divine <hi>Prophecies</hi> before their accomplishment, are most obscure, as afterwards they are most clear: and we can from our own Experience most clearly harmo<g ref="char:EOLhyphen"/>nize the most considerable Passages of our Life with those of several long since Printed and Pu<g ref="char:EOLhyphen"/>blished Books, how ever dark and doubtful they may have seemed to pious <hi>de Geer</hi> and <hi>Comenius,</hi> yea, even to their own Authors.</p>
+               <p n="4">4. What did not <hi>Christopher Kotter, Christina Poniatovia, Nicolaus Drabicius, John Kregel, Herman van Huden</hi> suffer from their Friends and Enemies, who notwithstanding are the chief Pro<g ref="char:EOLhyphen"/>phets of the third Part of the Scripture? Or who was more trod under foot by wicked Judges than <hi>Jacob Behmen,</hi> and before him <hi>David George,</hi> that Man of God, whose <hi>Wonder-Book</hi> was Printed in the year 1551? The wonderful Life of which Men, with others like them, shall be set down in the Book of the three <hi>Heroes,</hi> in the Third Part of the Scripture, which will be a kind
+<pb n="18" facs="tcp:207459:12"/> of new <hi>Book of Judges;</hi> to the which also belong the Lives of <hi>John Engelbrecht,</hi> and <hi>Paul Felgen<g ref="char:EOLhyphen"/>hauer,</hi> and many others yet alive, as well as their Writings, which being first sifted from any re<g ref="char:EOLhyphen"/>maining Chaff, shall constitute the Doctrine and Church-Books of the approaching Time. And might not also the <hi>Psalter</hi> of our fifteen <hi>Hymns</hi> be reckoned amongst the Books of the said Time of <hi>Cooling,</hi> seeing it expresseth the Figure of the Twelve Patriarchs, Prophets and Apostles, with its 12000 Verses, which make up its first five Books, by a real essential Leading of the <hi>Voice</hi> from the <hi>East</hi> and <hi>North,</hi> as its last Books shall compleat and make out the number of the Twen<g ref="char:EOLhyphen"/>ty Four Elders? The said <hi>Psalter</hi> comprehends the first Fruits of what is already fulfilled, sing<g ref="char:EOLhyphen"/>ing a New Song, according to <hi>Isaiah</hi> the Pro<g ref="char:EOLhyphen"/>phet, <hi>in the Isles of the Sea; and praising God from the Ends of the Earth.</hi>
+               </p>
+               <p n="5">5. Listen ye People from the <hi>East</hi> and <hi>North;</hi> judge, ye Inhabitants of <hi>South</hi> and <hi>West!</hi> Are not they Divine Prophets, who declare things to come many years before they come to pass? Or is there any besides <hi>Jehovah</hi> alone, who can foretel the unsearchable Changes and Revoluti<g ref="char:EOLhyphen"/>ons which are to happen on the <hi>Face</hi> of the whole Earth? Or have I not reason to esteem them for Prophets, in whose Writings long since have been set down many Accidents and Passages, which have all met with me, being Ignorant of any such thing? Am I not obliged in Conscience to promote these suppressed Prophets with the
+<pb n="19" facs="tcp:207459:12"/> greatest Earnestness, to which Work I have been long since called by them in their writings? Or is it fitting, think you, to attribute this Su<g ref="char:EOLhyphen"/>pernatural Power to the <hi>Stars?</hi> Or shall we say of that which is <hi>Heavenly,</hi> that it comes from <hi>Hell?</hi> Judge here a Righteous <hi>Judgment,</hi> before the Righteous <hi>Judgment</hi> of the Prophets judge and overtake you.</p>
+               <p n="6">6. I find then in the forementioned Prophets, their <hi>Riddles</hi> being <hi>unriddled,</hi> and <hi>Moses</hi>'s <hi>Veil</hi> ta<g ref="char:EOLhyphen"/>ken away.</p>
+               <p n="1">1. In the first place, the Name of my Father, <hi>Quirin Kuhlman,</hi> the Son of <hi>John</hi> and <hi>Elizabeth.</hi>
+               </p>
+               <p n="2">2. The Year of his Birth, 1628.</p>
+               <p n="3">3. The Month in which he was born, <hi>February,</hi> the Month of 28 days.</p>
+               <p n="4">4. The day in which he was Baptized, being the 28th. day of the said Month.</p>
+               <p n="5">5. The Name of my Mother, <hi>Rosina Ludovica,</hi> the Daughter of <hi>Adam Lodowick,</hi> and <hi>Magdalen Haustobin.</hi> Which five Points concerning my <hi>Parentage,</hi> shall suffice to have mentioned here.</p>
+               <p n="6">6. Further, I find the year of my Conception, 1650, famous for the conclusion of the General Peace.</p>
+               <p n="7">7. In the next Place, the Year in which I was Born, 1651. which falls in with the fifth Year-week of the one and twenty Weeks of <hi>Kotterus.</hi>
+               </p>
+               <p n="8">8. <hi>Thirdly,</hi> The Month in which I was Born, which was likewise <hi>February,</hi> the Month of 28 days.</p>
+               <p n="9">9. <hi>Fourthly,</hi> My Birth-day, the 25th. of <hi>February</hi>
+               </p>
+               <p n="10">10. <hi>Fiftly,</hi> The hour of my Birth, which was the 21. hour of <hi>Saturday,</hi> and its malign outward <hi>Constellation,</hi> the afflicted Position of <hi>Saturn,</hi> with so many other of the Pla<g ref="char:EOLhyphen"/>nets in <hi>Pisces.</hi>
+               </p>
+               <p n="11">11. In the said <hi>Prophetical-Writings,</hi> I find also the day in which I was Baptized, Viz. the 26. of <hi>February,</hi> and the 28. hour of my Life, appointed thereto.</p>
+               <p n="12">
+                  <pb n="20" facs="tcp:207459:13"/>12. My <hi>Roman Name</hi> received in <hi>Baptisme, Quirinus,</hi> under which are comprehended <hi>Romulus, Quinarius, Cyrenius, Cy<g ref="char:EOLhyphen"/>rus</hi> or <hi>Cores, Kyrios</hi> or <hi>Elias,</hi> as well as <hi>Sire</hi> and <hi>Sir</hi> of the outward <hi>Rose</hi> and <hi>Lilly,</hi> with many other Consequences.</p>
+               <p n="13">13. Likewise my <hi>German Sirname, Kuhlman,</hi> the one half of which seems to arise from the Herb <hi>Kuhl,</hi> which in the <hi>German</hi> Tongue, is the Name of the <hi>B<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ew</hi> and <hi>Purple Colewort</hi> or from the <hi>German</hi> word, <hi>Kuhlen,</hi> which signifies to <hi>Cool</hi> or <hi>Re<g ref="char:EOLhyphen"/>fresh,</hi> with reference to St. <hi>Peters</hi> times of <hi>Cooling;</hi> or lastly, may be derived from the word <hi>Kuhle,</hi> which signifies a <hi>Quill,</hi> or that part of the Feather which sticks fast in the Body of a Bird; and the other part of it wonderfully ariseth from <hi>Man, Mannus, Adam,</hi> as from its Root; in Greek, <hi>Pshycander,</hi> and according to the Hebrew, is compounded of, <hi>Ish</hi> or <hi>Adam,</hi> and <hi>Ruach.</hi>
+               </p>
+               <p n="14">14. Moreover the Name I derive from my Birth-place, <hi>Breslauer,</hi> which signifies one born in the City <hi>Breslau,</hi> and gives this German Anagram, <hi>Nichts Blauers,</hi> nothing more blew; and being expressed in <hi>Latine, Ʋratis laviensis,</hi> gives this <hi>Anagram, Elias Artis Ʋnius</hi> (&amp; <hi>Jerusalemitanus</hi>) In the same I find also my Birth-place, <hi>Breslau,</hi> by the Learned, called <hi>Budorgis,</hi> distant from <hi>Rome,</hi> 166 <hi>German</hi> Miles, and is, together with <hi>Jerusalem, Heidelberg</hi> (by the Learned, called <hi>Budoris) Paris</hi> and <hi>Basel,</hi> under the Heavenly Sign <hi>Virgo,</hi> &amp; is indeed a Virgin, as having never been taken; &amp; which is more than all, being by reason of <hi>Kotterus</hi> his appearing there, before King <hi>Frederick,</hi> the very <hi>Matrix</hi> and <hi>Source</hi> of the whole <hi>Modern Prophecy.</hi>
+               </p>
+               <p n="15">15. Lastly, my Country, <hi>Silesia,</hi> which lyes <hi>Northwards,</hi> and is a Province of the Kingdom of <hi>Bohemia:</hi> from which ten Particulars, the five first mentioned concerning my Pa<g ref="char:EOLhyphen"/>rentage, receive a greater weight, and are made more con<g ref="char:EOLhyphen"/>siderable.</p>
+               <p n="7">7. After these Particulars concerning my Parentage, Birth, and Country, may follow the Mysteries of my Spiritual Li<g ref="char:EOLhyphen"/>nage, Birth and Country: as,</p>
+               <p n="16">16. <hi>First,</hi> My first receiving of Power in the 13th. year of my Age 1664.</p>
+               <p n="17">17. <hi>Secondly,</hi> The first year of my <hi>Call</hi> &amp; <hi>Illumination,</hi> 1669.</p>
+               <p n="18">18. <hi>Thirdly,</hi> The Month in which I was Spiritually con<g ref="char:EOLhyphen"/>ceived, <hi>May,</hi> 1669.</p>
+               <p n="19">
+                  <pb n="21" facs="tcp:207459:13"/>19. In the fourth place, my two <hi>Angels,</hi> who from the aforesaid <hi>May,</hi> for five years together, have visibly been my Leaders.</p>
+               <p n="20">20. <hi>Fifthly,</hi> my wonderful Motion towards <hi>Holland,</hi> in the year 1673, and what thence happened.</p>
+               <p n="21">21. <hi>Sixthly,</hi> The assuming of my <hi>Seal</hi> in the year 1673, being nine <hi>Crosses</hi> united, with three <hi>Crowns</hi> in chief, and surrounded with a <hi>Garland</hi> of <hi>Lillies</hi> and <hi>Roses,</hi> which is a comprehension of all wonder-wonder-wonders.</p>
+               <p n="22">22. <hi>Seventhly,</hi> The visible opening of the inward <hi>Paradise-World,</hi> and its infolding of me.</p>
+               <p n="23">23. <hi>Eighthly,</hi> The Month of my publick <hi>Call</hi> in <hi>Leyden, January,</hi> 1674.</p>
+               <p n="24">24. <hi>Ninthly,</hi> The day of my publick <hi>Motion,</hi> in order to a publick <hi>Work,</hi> the 28th. of <hi>January,</hi> 1674.</p>
+               <p n="25">25. <hi>Tenthly,</hi> My universal Knowledge, and growing up out of the Pith and Root of the whole Tree of the Seven <hi>Art-Properties,</hi> and the Three <hi>Science-Principles.</hi>
+               </p>
+               <p n="26">26. <hi>Eleventhly,</hi> The weighing and picking out of the <hi>Pearls</hi> of all <hi>Libraries,</hi> and that by meanes of the oft mentioned <hi>Bo<g ref="char:EOLhyphen"/>di<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s,</hi> and so finishing the Building of <hi>Babel.</hi>
+               </p>
+               <p n="27">27. <hi>Twelfthly,</hi> My sudden relinquishing of all Academical Studies, with all Nicities and Trifles of the <hi>Latins.</hi>
+               </p>
+               <p n="28">28. <hi>Thirteenthly,</hi> My rejecting the degree of <hi>Doctor of Law,</hi> 1074. in <hi>Leyden,</hi> together with all their Doctoral Trin<g ref="char:EOLhyphen"/>kets and Follies.</p>
+               <p n="29">29. <hi>Fourteenthly,</hi> The new Spiriting of both the slain <hi>Witnesses,</hi> according to all the three Principles.</p>
+               <p n="30">30. <hi>Fifteenthly,</hi> My wonderful meeting with the <hi>Red Lyon</hi> in the fiery Property of the Father; with many like Occurrences, whereby a way was prepared for me to fly through the midst of the House. Judge by these fifteen Particulars, O ye Kindreds of the Earth, the fore<g ref="char:EOLhyphen"/>going, because these add the greatest weight to those, and those give the same to these; and condemn your false judg<g ref="char:EOLhyphen"/>ing with your own Judgment.</p>
+               <p n="8">8. After these most important Particulars, follow fifteen others yet more considerable, for to make a so-much the more strong Impression and Ingress, in order to the ful<g ref="char:EOLhyphen"/>filling of what is yet to be fulfilled.</p>
+               <p n="31">
+                  <pb n="22" facs="tcp:207459:14"/>31. The <hi>First</hi> of which is the weighing, examining and restoring of the <hi>H. Scripture</hi> in its <hi>Text, Translations, Para<g ref="char:EOLhyphen"/>phrases, Explications, Concordances, Masora</hi> and <hi>Purgations,</hi> ac<g ref="char:EOLhyphen"/>cording as I have made the Proposal in my <hi>London-Epistle.</hi>
+               </p>
+               <p n="32">32. <hi>Secondly,</hi> The Three-one Union of the <hi>H. Scripture,</hi> according to <hi>Law, Gospel,</hi> and the Times of <hi>Cooling,</hi> in its nine Parts, <hi>viz. Moses,</hi> the <hi>Psalms,</hi> the <hi>Prophets, Evangelists, Epistles Revelation, New-Prophets, New-Psalms, New-Revelations;</hi> alias <hi>Cooling-Prophtes Cooling-Psalter,</hi> and <hi>Cooling-Revelation</hi> for the <hi>Jews, Turks,</hi> and <hi>Heathens.</hi>
+               </p>
+               <p n="33">33. <hi>Thirdly,</hi> The restoring of the Name of <hi>Christians,</hi> and the new Name of <hi>Jesuelites,</hi> and the casting away of all <hi>M<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>dern</hi> Names of <hi>Sects</hi> and <hi>Parties.</hi>
+               </p>
+               <p n="34">34. <hi>
+                     <gap reason="illegible" resp="#murp" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>thly,</hi> My Voyage to <hi>Constantinople</hi> to the <hi>Turkish-Emperour,</hi> having taken the Prophets along with me, in the Year 1678, in order to a real Conversion.</p>
+               <p n="35">35. The great hast I made in the said Journey from the fa<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>thest <hi>Wing of the Earth,</hi> most swiftly passing many Countries.</p>
+               <p n="36">36. <hi>Sixthly,</hi> My being hurt with <hi>Thistles</hi> and <hi>Thorns</hi> upon many accounts in so long a Journey, and my Halting for some time for want of true Friends.</p>
+               <p n="37">37. <hi>Seventhly,</hi> My being wonderfully joyned to a Wid<g ref="char:EOLhyphen"/>dow, who was my Companion for forty two Months.</p>
+               <p n="38">38. <hi>Eigthly,</hi> The day of my Departure for <hi>Europe</hi> from <hi>Sm<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rna,</hi> near <hi>Pathmos,</hi> on the 15th. of <hi>November,</hi> 1678.</p>
+               <p n="39">39. <hi>Ninthly,</hi> The wonderful Agreement and Harmony of the three Ships, with which my Voyage was performed: the <hi>Northern</hi> Ship which carryed me to <hi>London,</hi> 1676, being called, <hi>The Greenland-Merchant;</hi> the <hi>Western, The St. Joseph,</hi> and <hi>Crowned Dolphin,</hi> which in the year. 1678 carryed me to<g ref="char:EOLhyphen"/>wards the <hi>East:</hi> and the <hi>Eastern Constantinople,</hi> which carryed me to <hi>Amsterdam.</hi>
+               </p>
+               <p n="40">40. <hi>Tenthly,</hi> The double Quinary of the Letter <hi>L,</hi> be<g ref="char:EOLhyphen"/>tokening the Names of so many Places all beginning with <hi>L.</hi> in which my Spiritual Birth was accomplished, <hi>Viz. Lig<g ref="char:EOLhyphen"/>nitz, Leipsig, Leyden, Lubeck, Luneburg, London, Lutetia, Lions, Lesbos:</hi> and instead of the Spiritual, <hi>Langenan, Lesna, Led<g ref="char:EOLhyphen"/>nitz:</hi> the figuratively dangerous, <hi>Lampadusa, Lilybei, Lissa<g ref="char:EOLhyphen"/>bon:</hi> the Corporal, <hi>Leyden, London, Lutetia:</hi> the Divinely foreseen, <hi>Losanna,</hi> and its <hi>Hosanna:</hi> to which may be added
+<pb n="23" facs="tcp:207459:14"/> my ABC. <hi>alphabet &amp; AlephBeth Amsterd<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>, Bas<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l,</hi> s<gap reason="illegible" resp="#murp" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap> be<g ref="char:EOLhyphen"/>tween <hi>Bern</hi> and <hi>Brisack, Constantinople, <gap reason="illegible" resp="#murp" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, C<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o<gap reason="illegible" resp="#murp" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ge<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Ga<g ref="char:EOLhyphen"/>lata, Gades</hi> or instead of it, <hi>Geneva:</hi>
+                  <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> bei<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> his seventeen Cities, which in <hi>Ʋ<gap reason="illegible" resp="#murp" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                  </hi> shall be brought into Essence</p>
+               <p n="41">41. <hi>Eleventh<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>,</hi> The double Q<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ary of years of his Spiri<g ref="char:EOLhyphen"/>tual Birth, from <hi>May</hi> 1669 until 1<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>79, or 120 Months.</p>
+               <p n="42">42. <hi>Twelfthly,</hi> His Age of twenty eight years, and his wonderful Spiritual Births-month, <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</p>
+               <p n="43">43. <hi>Thirteenthly,</hi> His wearing of a black mourning ha<g ref="char:EOLhyphen"/>bit of the highest Tryals throughout the whole 29th. year of his Age.</p>
+               <p n="44">44. <hi>Fourteenthly,</hi> His Voyage from the <hi>West</hi> into the <hi>East,</hi> and again from the <hi>East</hi> into the <hi>West</hi> and <hi>North.</hi>
+               </p>
+               <p n="45">45. <hi>Lastly,</hi> The double Quinary of Months from <hi>May</hi> 1679, until <hi>February</hi> 1680, from which time the Work of God is carried on more powerfully, of which this present Writing is a real and Essential beginning.</p>
+               <p n="9">9. What do ye say to all this, ye People, from the <hi>East</hi> and <hi>North?</hi> Why do your Faces, all of a sudden, gather Pale<g ref="char:EOLhyphen"/>ness, O ye lost <hi>Wretches</hi> of the <hi>South</hi> and <hi>West?</hi> Think you, I can find no more Witnesses? Yea, verily, we have many more; but we will only add one Quinary more for to com<g ref="char:EOLhyphen"/>pleat the number 50, and leave the rest to time and your own Experience. We receive dayly, according to what hath been Prophesied of us.</p>
+               <p n="46">46. <hi>First,</hi> The opening of all <hi>Prophetical Calculations</hi> of Years, Months, Days and Hours, so far as is needful for us.</p>
+               <p n="47">47. <hi>Secondly,</hi> The Knowledge of <hi>Prophetical Countries, Places</hi> and <hi>Cities.</hi>
+               </p>
+               <p n="48">48. <hi>Thirdly,</hi> Of Kings, Princes, Lords, Great and Small, who are chosen to be <hi>Instruments</hi> in this Work.</p>
+               <p n="49">49. <hi>Fourthly,</hi> The true way and manner of calling a <hi>Ge<g ref="char:EOLhyphen"/>neral-Council,</hi> which according to Command, is to meet in the City <hi>Ʋlme.</hi>
+               </p>
+               <p n="50">50. The <hi>Entire Root</hi> of the whole <hi>Tree</hi> of the 70 Nations, and the 77 Names, to the end its fragant Odour may reach into the Paradice of God, <hi>Cooling</hi> and <hi>refreshing</hi> all those who hitherto have been parched with the Fire of Religi<g ref="char:EOLhyphen"/>ous Contests.</p>
+               <p n="10">
+                  <pb n="24" facs="tcp:207459:15"/>10. Therefore it was, that the twenty eighth day from my Birth, the first Command of God came to the Prophet <hi>Drabieius,</hi> to fill the World with many hundred Copys of the <hi>Divine Revela<g ref="char:EOLhyphen"/>tions,</hi> because my 28th. Year was first to fill the World with the true Understanding of the said Writings, and three years after he received a like Promise with old <hi>Simeon,</hi> which indeed was ful<g ref="char:EOLhyphen"/>filled accordingly, for he was not called out of this World, till after my <hi>Call;</hi> for in <hi>May,</hi> 1667. the Books were ordered to be sent to the Great Men of the Earth; in the Year 1668, the Work was fully compleated, and in <hi>May,</hi> 1669. I received my <hi>Call</hi> in <hi>Breslau,</hi> as God had five years before promised to <hi>Drabicius,</hi> his Blessing in <hi>Breslau:</hi> For <hi>Jehovah</hi> did, in his wise Counsel, so unsearchably hint and discover my <hi>Call</hi> to the Prophet, for your sake, O ye People of the four Corners of the Earth, that with so much the more assurance, ye might belieue the words of God, and at length learn this, <hi>That the Ways of the Almighty are all plain and open to simple Chil<g ref="char:EOLhyphen"/>dren, but altogether unsearchable to the Proud and High-minded.</hi> Wherefore tremble, thou false <hi>Prophetical Goliah,</hi> since <hi>Jehovah</hi> will suddenly run such a Ring through thy Nostrils, as thou art little aware of, and thou must now draw in that Odour which will burst thee, and cause a general Flight amongst thy <hi>Philistims</hi> and <hi>Baals Priests,</hi> that Generation of <hi>Vipers,</hi> who are all<g ref="char:EOLhyphen"/>ready Registred for Slaughter.</p>
+            </div>
+            <div n="4" type="part">
+               <pb n="25" facs="tcp:207459:15"/>
+               <head>The Fourth Stone of Extraordinary Tryalls and Refinings.</head>
+               <p n="1">1. TAST thou <hi>Goliah</hi> of all <hi>Kindreds, Peo<g ref="char:EOLhyphen"/>ple</hi> and <hi>Languages,</hi> who hast not been Seasoned with <hi>Salt,</hi> tast here the <hi>divine Salt</hi> of unexpressible Tryals, where<g ref="char:EOLhyphen"/>with Gods Children are preserved from corrup<g ref="char:EOLhyphen"/>tion, to whom thou art given as a Servant, that helps to Season them, wherefore now tast thine own Work! <hi>Jehovah</hi> who hath called me to purg <hi>Babel,</hi> hath before purged and refined me in the sharpest manner, and refines me dayly like to <hi>Silver</hi> untill all the seven fires of <hi>Temtation, Per<g ref="char:EOLhyphen"/>secution, Cross, Suffering, Anguish, Distress</hi> and <hi>Danger</hi> have accomplished their Work upon me in order to my perfect <hi>Purification.</hi>
+               </p>
+               <p n="2">2 Hence it is that such extraordinary Tryals have befallen me, by how much swifter my Course hath been: insomuch as hitherto, that hath been in a special manner fulfiled in me what in general the highly enlightned <hi>Thaulerus</hi> with all the <hi>Adepts</hi> of the <hi>Lights Principle</hi> and of the <hi>Inward Paradisick Tincture,</hi> do with Truth de<g ref="char:EOLhyphen"/>clare &amp; profess <q rend="margQuotes">That God will rather suffer ma<g ref="char:EOLhyphen"/>ny hundred thousand People to doe amiss; ra<g ref="char:EOLhyphen"/>ther shut the Eyes of many thousands who are realy good; rather send his Angels from <hi>Heaven</hi> to try them; rather most unexpectedly permit the most unwonted &amp; unheard of Accidents be<g ref="char:EOLhyphen"/>yond all Sense, Thought or Suspicion; rather by the extreamest Ways and Means, and in the ex<g ref="char:EOLhyphen"/>tremest
+<pb n="26" facs="tcp:207459:16"/> manner, lead them through thousand sorts of Shame and Reproach on all Hands, than that the <hi>Fire</hi> of <hi>Affliction</hi> should not fully, and to the utmost purge and refine them, through all tryals, of all states and Conditions, for the En<g ref="char:EOLhyphen"/>tire and Radical consuming and burning up of of all <hi>Ines</hi> and <hi>selfhood;</hi> that so they might break through all nakedly, in the strongest Faith, through <hi>Jehovah</hi> in <hi>Jos<gap reason="illegible" resp="#murp" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>.</hi>
+                  </q>
+               </p>
+               <p n="3">3 When <hi>Christ Jesus</hi> darted forth in his Youth of 23 Years the first Beam of his Immediate Wis<g ref="char:EOLhyphen"/>dom in the year 1674 to the Kings, Electors, Princes, Dukes and Lords of the <hi>Lutheran Pro<g ref="char:EOLhyphen"/>fession,</hi> from whence I was sprung, then was his Spirit in me, with so much the more violence, <hi>Judg<g ref="char:EOLhyphen"/>ed, Condemned, Cursed, Blasphemed, Reiected</hi> and <hi>Cryed</hi> out against for <hi>Heresy</hi> and <hi>Atheisme,</hi> by how much the more strongly and vigorously, be<g ref="char:EOLhyphen"/>yond the paralel of all past times, it shone in me.</p>
+               <p n="4">4 Then became I a <hi>spectacle</hi> to the Higher and Neather <hi>Germany, Denmark</hi> and <hi>Sweden,</hi> be<g ref="char:EOLhyphen"/>ing represented as an <hi>Of-scouring</hi> in their Chairs and Pulpits, an <hi>Enthusiast,</hi> a <hi>Phantast,</hi> a <hi>Fanatick</hi> a <hi>Melancholy-Person,</hi> a <hi>Fool,</hi> a <hi>Madman,</hi> a <hi>Quaker,</hi> and had reason to say with <hi>Jacob Beh<g ref="char:EOLhyphen"/>men</hi> whose spirit was new spirited by me, <hi>they scorn my Soul and despise it as an evil Doer, who hath broken Faith with them; they despise my walk<g ref="char:EOLhyphen"/>ing towards thee, and account it Foolishnes: they think I am out of my Wits, because I walk in this Thorny-path, and go not a long with them in their Hypocritial way. They know not thy Way, and do
+<pb n="27" facs="tcp:207459:16"/> this in Blindnes, through the deceit of the Devil: Have pity upon them, and bring them out of blind<g ref="char:EOLhyphen"/>ness, into the Light, that they may learn to know themselves, how they lye captivated in the Filth and Mire of Satan, in a dark Valley, being fast bound with three Chaines. O great God have mercy upon</hi> Adam <hi>and his Children, O deliver them in Christ the new</hi> Adam. <hi>I Cry to thee O Christ, God and man in this Pilgrims Path, which I must walk through, in this dark Valley, where on all hands I am scorned, anguished and accounted an Ʋngodly Wretch;</hi> and more such like, which the Spirit of God there speaks.</p>
+               <p n="5">5. I have reason also to Cry with <hi>Nehemiah; Re<g ref="char:EOLhyphen"/>member, my God, the Prophets, who would have deterred me, when I was fully bent and willing.</hi> Most horrible <hi>Dreams, Visions</hi> and <hi>Revelations</hi> have been seen by several; some for me, others against me, to the perplexing and scattring of thousands. Yea even at this present, Satan begins to stirr up thousand-fold <hi>Deceits Blasphemies, Ʋndervalu<g ref="char:EOLhyphen"/>ings,</hi> that he might wholly confound and destroy the <hi>Good with</hi> the <hi>Evill, Truth</hi> with <hi>Falshood,</hi> and the good <hi>Seed</hi> with the <hi>Tares.</hi>
+               </p>
+               <p n="6">6. Should I go about to recount all my Tryals, through all the seven forementioned Refining <hi>Fires,</hi> as I at first intended, and had already made a beginning, it would rather make a whole <hi>Vol<g ref="char:EOLhyphen"/>ume,</hi> than a few Lines onely: and I think it will be better to blot out such unheard-of Cases, than to burthen the stomacks of tender-sucking Chil<g ref="char:EOLhyphen"/>dren with meat, which is as hard as <hi>Steel</hi> or <hi>Stone,</hi>
+                  <pb n="28" facs="tcp:207459:17"/> and which is onely suited for the Stomacks of true <hi>Jobs</hi> and <hi>Tobias</hi>'s and such, to whom (ac<g ref="char:EOLhyphen"/>cording to the Angelical Instruction by <hi>Kotterus</hi>) Christs <hi>Poverty,</hi> is <hi>Riches;</hi> Christs <hi>Patience,</hi> their <hi>Looking-glass;</hi> Christs <hi>Doctrine,</hi> their <hi>Way;</hi> Christs <hi>Scorn,</hi> their <hi>Honour;</hi> Christs <hi>Mourning,</hi> their <hi>Joy;</hi> Christs <hi>Suffering,</hi> their <hi>Redemption;</hi> Christs <hi>Pains,</hi> the stilling of theirs; Christs <hi>crying,</hi> their silence; Christs <hi>dying on the Cross,</hi> their <hi>Life;</hi> Christs <hi>Grave,</hi> their <hi>Rest;</hi> Christs <hi>Resurrection,</hi> their <hi>Hope;</hi> Christs <hi>Ascension,</hi> their <hi>Victory.</hi>
+               </p>
+               <p n="7">7. The further the Work of God in me hath spread it self <hi>West, North, East</hi> and <hi>South,</hi> the stronger floods hath the Hellish Dragon poured and shot forth against me, so that to Purpose I have been <hi>Thrashed</hi> and <hi>Bruised, Broken</hi> and <hi>Shattred, Pounded,</hi> and <hi>Ground, Sifted</hi> and <hi>Refined Cut</hi> and <hi>Squeesed,</hi> oftentimes not knowing how, with my Jesus on the Cross, I should sufficiently bewayle my being forsaken.</p>
+               <p n="8">8 Many unheard of Accidents have all of a-sudden fallen upon me, insomuch that even in the highest depth of <hi>Divine Wisdom</hi> in the which I stood by my <hi>Supernatural Call,</hi> I could not <hi>Plum</hi> the depth of them, much less Reveal them to others; and my heart hath received such, and so many <hi>Wounds, Gashes</hi> and <hi>Stabs,</hi> that it would not seem strang if heart-sorrow had Kild me long ago: onely the <hi>Divine Power</hi> stood by me, o<g ref="char:EOLhyphen"/>vercame and delivered me, to whom, above all, Glories-Glories-Glory doth belong.</p>
+               <p n="9">9 Even as <hi>Jesus Christ</hi> when he hung on the <hi>Cross,</hi> appeared to all to be the most miserable
+<pb n="29" facs="tcp:207459:17"/> of Men, tho indeed he was then most dear to his <hi>God</hi> and <hi>Father,</hi> yea far dearer, than when he wrought all his Miracles, because he was now nearest to his <hi>Perfect Conquest;</hi> in like manner, was I never in higher Understanding and Know<g ref="char:EOLhyphen"/>ledge, than when the Extremest sufferings beset me, nor ever more assured of the gracious pre<g ref="char:EOLhyphen"/>sence of God, than when all men Judged and Con<g ref="char:EOLhyphen"/>demned me; since it is most true according to the words of <hi>David George,</hi> that to be Condemn<g ref="char:EOLhyphen"/>ed and Judged here on Earth, is to be Justified and Blessed in Heaven.</p>
+               <p n="10">10 In a word; none can in any way or man<g ref="char:EOLhyphen"/>ner cast upon me more <hi>Judgings, Condemnings, Reproaches, Lyes Scornings, Mockings, Revilings</hi> for an <hi>Heretick,</hi> both ordinary and extraordina<g ref="char:EOLhyphen"/>ry, than I have already gone through: so that now at length being lifted up above the reach of all these <hi>Darts</hi> of Satan, into the most clear Sky, with a most serene and quiet Mind, without the least Commotion, I see them all under my Feet; Rejoycing, Shouting and Triumphing in my God. Wherefore taste now ye dear <hi>Christian Israelites</hi> in our <hi>Skars</hi> &amp; <hi>Gaping Wounds,</hi> the <hi>Divine Salt</hi> of Gods Chosen <hi>Instruments,</hi> and pursue the fleeing <hi>Philistims,</hi> for their <hi>Salt</hi> hath lost its <hi>savour,</hi> and their <hi>Goliah</hi> is slain. Hallelujah!</p>
+            </div>
+            <div n="5" type="part">
+               <pb n="30" facs="tcp:207459:18"/>
+               <head>The Fifth Stone of Immediate-mediate Essential Powers.</head>
+               <p>IN the last Place, feel, thou Insensible <hi>Goliah</hi> of all Kin<g ref="char:EOLhyphen"/>dreds, Tongues, and People, What the whole Earth, will they, nill they, hath dayly felt, doth still, and shall feel, even that Immediate-mediate Essential Power, which quite overturns thee! <hi>Jehovah</hi> hath not only Called, but also compleatly furnished and armed me with <hi>Jehovah</hi> from <hi>Jehovah,</hi> so as not the least Letter or Tittle of all his Promises remains unaccomplished, concerning all those Good Things which ever any Divine Prophet, Wise<g ref="char:EOLhyphen"/>man, or Scripture-Learned, hath spoken from the Impulse of the Spirit of God.</p>
+               <p n="2">2. Our Crown-number in all the seven Art-Spirits, and the three Wisdom-Prudence-Science Principles, is a thou<g ref="char:EOLhyphen"/>sand-thousand-times-thousand, being the end of Nature, be<g ref="char:EOLhyphen"/>cause the endless end of Nature is broke off by an extraor<g ref="char:EOLhyphen"/>dinary Will; and being kindled by the Spirit of God, we describe in our Books what all Books, whether lost or yet remaining, from the beginning of the World, have ever described.</p>
+               <p n="3">3. What hitherto we have wrote, is not the 1234567890 thousand-thousand-thousand-times-thousand, two hundred four and thirty times thousand-thousand, five hundred six and sevent<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thousand, eight hundred and ninetieth part of that, which is contained in the ten Forms, according to the Understanding, which is given us, from whence finally the whole Creation shall be opened, according to every Kind and Property, in its own number, Weight and Measure, that is, how one thing after another in their natural Order, have been created, brought forth, and made.</p>
+               <p n="4">4. Wonder not at this, ye <hi>Adepts</hi> of Nature, my most belo<g ref="char:EOLhyphen"/>ved Brethren! The true Central Wisdom hath a most natu<g ref="char:EOLhyphen"/>ral resemblance with numbers, whole Nature being nothing else but a Corporeal Essential Number, &amp; which is as easy, as simple, as swift, as comprehensible, as incomprehensible, as endlesly arising, growing, multiplying it self out spreading &amp; Corporifying as Number, which ever eternally is the same Number 10, which it was, and yet ever Eternally is not the same Number 10 it was, and never will be Eternally what it is.</p>
+               <p n="5">
+                  <pb n="31" facs="tcp:207459:18"/>5. That which is above, is like that which is beneath, and that which is beneath, like that which is above; and yet that which is beneath, shall never be that which is above, nor that which is above, that which is beneath; which yet eter<g ref="char:EOLhyphen"/>nally was the upper of the under, the under of the upper. All things were, are, and shall be what they were, are, and shall be, and how they were, are, and shall be, and nothing was, is, and shall be, in Time, what was not, is not, and shall not be in Eternity; and yet what is newest, was, is, and shall be out of the oldest, and the oldest out of the newest. Whatsoever things past, present, or to come, were, are, and shall be, the same were, are, and shall be yet every mi<g ref="char:EOLhyphen"/>nute, such as they were, are and shall be before all minutes, and yet never more such as they were, are, and will be, and yet evermore such as they were, are, and will be.</p>
+               <p n="6">6. <hi>Solomon</hi> cryed with a loud voice, <hi>O Vanity of Vanities, all is vain!</hi> We answer his Cry with, <hi>O Eternity of Eternities; all is Eternal!</hi> In which words, though we seem to oppose him, yet we do not oppose him. Here lye the Keys of Wis<g ref="char:EOLhyphen"/>dom-Prudence-Science which open all things, as they have already opened all things, and yet have never opened all, and yet ever opened all! This is the Original Matrix of the Seven-one Eternal Art, with her ever-endless and yet never-endless Daughters, the One-seven, and Seven-one, of the One-three and Three-one of the Onely-one!</p>
+               <p n="7">7. Hear Wisdom, ye Seventy Nations of the Earth, and perceive Prudence, ye Seventy-seven, though indeed ye be but Seven Nations, Three Nations, and one Nation! Why do you wrangle amongst your selves about the Triune God, whereas ye are all of you his Triune Image? And why do you contend about the One God, seeing all of you are the Image of his Unity? Enter into your selves, and enquire of your selves, whether the Soul, be another than the Spirit, the Spirit, than the Body? And whether the Soul be not another thing than the Spirit, and the Spirit than the Bo<g ref="char:EOLhyphen"/>dy? Whether the Soul, Spirit and Body do not at once make every one of you a Three-one, Threefold and One-man? Whether Good and Evil be not in you one in ano<g ref="char:EOLhyphen"/>ther, and yet that ye are not Evil in case you awaken the Good, nor Good in case you awaken the Evil? Enquire
+<pb n="32" facs="tcp:207459:19"/> whether in you the Eternal Soul doth generate the Eternal Spirit, as a Father doth his Son, and whether the Eternal Mind doth not go forth as a Spirit from both? Be then to your selves, what ye are, that so you may be, what you are not, and not be, what you now are.</p>
+               <p n="8">8. Run hither, ye Seven and Seventy-one, Seven-one, Three-one People, who are yet but One, since we call you with a Seven and Seventy-one, Seven-one, Three-one, which yet is but one Voice, and buy Wisdom for nought, since we have to sell to you for nought! Only go out from the foolish Antichrist of all Letter-contention, seeing that all Letters stand in their Seventy-Seven-one, Seven-one, Three-one, and One Root of the One-onely Spirit of God, and learn to know one another again, as Children of Christ in <hi>Adam,</hi> seeing that the Kingdom of God consists not in our Knowing or Opinions, but in Power.</p>
+               <p n="9">9. <hi>Jehovah,</hi> who was the Eternal Father, and did gene<g ref="char:EOLhyphen"/>rate out of himself from Eternity, as he doth still generate in Eternity, and will generate to Eternity, his Only Begot<g ref="char:EOLhyphen"/>ten Son <hi>Jehovah,</hi> so as from them both, went, goeth, and shall go forth the Eternal Spirit <hi>Jehovah▪</hi> the same hath in his Eternal Word, restored the lost Kingdom of <hi>Adam,</hi> when he sent the same Word into the World, clothed upon with the Heavenly Humanity of the Covenant in <hi>Adam,</hi> and fulfils now before your Eyes whatsoever he from the inspeaking of his Word into <hi>Adam,</hi> who had forsaken his Word, until this day, hath promised by the Mouth of all his Called Ones, from the four Winds of the Earth.</p>
+               <p n="10">10. Haste, haste, haste hither to us, ye Nations of the fourfold divided World, &amp; feel the wonder-works of the Almighty, seeing that the King<g ref="char:EOLhyphen"/>dom of God is so near at hand: Hasten, ye Inhabitants, from the rising of the Sun, in the <hi>Eastern</hi> Countries: Follow the bright Star of <hi>Jacob,</hi> &amp; in Faith strike the <hi>Rocky-stone:</hi> Receive the Water of Life, the Water of Wisdom, the Water of Understanding, which is clear as Crystal, brighter than the Morning-Star: Possess in this Evening of the world, above all things, the single knowledge of God, in singleness and love. Herewith we take off the Head of <hi>Goliah,</hi> which is a real Beginning of the Quinary of our Scripling-works, which head, with the Assistance of God, we carry along with us to <hi>Jerusalem.</hi> And as for you, ye three He<g ref="char:EOLhyphen"/>roes of the Living God, pursue the Philistims through <hi>Ekron,</hi> gather your selves together from all N<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tions of the earth, into the Valley of <hi>Jehoshaphat,</hi> and at length (according to those ways which have im<g ref="char:EOLhyphen"/>mediate-mediately been prescribed to you by God, for an eternal Hallelujah to all People) of Antichrist and his Adherents make a final</p>
+            </div>
+            <trailer>END.</trailer>
+            <pb facs="tcp:207459:19"/>
+         </div>
+      </body>
+   </text>
+</TEI>
